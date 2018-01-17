@@ -11,3 +11,6 @@ A list of ideas/potential projects to code (in no particular order):
 - url shortener
 - file sharing web application
 - download mail attachments
+- Write a reddit script that downloads all the images from /r/earthporn and stores them in your wallpaper folder.
+- Create *personal website*
+- Send batches of SMS to a large group of recipients
