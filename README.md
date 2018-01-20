@@ -15,3 +15,4 @@ A list of ideas/potential projects to code (in no particular order):
 - Create *personal website*
 - Send batches of SMS to a large group of recipients
 - Harry Potter doodles (blog/website)
+- Romance novels website (upvote/downvote system?)
