@@ -16,3 +16,4 @@ A list of ideas/potential projects to code (in no particular order):
 - Send batches of SMS to a large group of recipients
 - Harry Potter doodles (blog/website)
 - Romance novels website (upvote/downvote system?)
+- A doodle place to write my favorite quotes
